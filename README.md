@@ -2,13 +2,13 @@
 
 This repository keeps the tutorial notebooks which you will be using for your HW. The notebooks will largely be run on Google COLAB.
 
+* *
 
+* Original Author: Bhargav Srinviasa Desikan
 
-Original Author: Bhargav Srinviasa Desikan
+* Editors and Reviewers: James Evans, Likun Cao, Partha Kadambi
 
-Editors and Reviewers: James Evans, Likun Cao, Partha Kadambi
-
-
+* *
 
 Week 1 - Deep Learning?
 
